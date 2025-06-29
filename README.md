@@ -18,7 +18,13 @@ The goal of the system is to automate and centralize operations like:
 This end-to-end database solution supports better decision-making, financial integrity, and operational efficiency for a modern postal business environment.
 
 ---
+## 🧱 Entity-Relationship Diagram (ERD)
 
+The following diagram illustrates the entities, relationships, and key attributes used to model the database system.
+
+![ERD](ERD.png)
+
+---
 ## Entity-Relationship Design
 
 ### 1. **Supply Chain**
